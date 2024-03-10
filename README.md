@@ -1,0 +1,1 @@
+Bu program, kullanıcıdan taban ve üs değerlerini alır ve ardından bu değerlerle üs alma işlemini gerçekleştirir. Üs alma işlemi recursive olarak power() metodu ile gerçekleştirilir. Eğer üs değeri pozitif ise tabanı üssü kadar çarpar, üs değeri 0 ise 1 döndürür, üs değeri negatif ise tabanı negatif üssü kadar çarpar ve sonucu 1'e böler.
